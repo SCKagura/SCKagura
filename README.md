@@ -34,7 +34,6 @@ I’m passionate about networks, backend & frontend development, and always eage
 ---
 
 ### 📊 GitHub Stats
-*(สถิติเหล่านี้จะอัปเดตอัตโนมัติตามโปรเจกต์ทั้งหมดของคุณใน GitHub)*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SCKagura&show_icons=true&bg_color=0d1117&text_color=ffffff&title_color=3ec6f6&icon_color=3ec6f6&border_color=3ec6f6&hide_border=false" alt="SCKagura's GitHub stats" height="165"/>
