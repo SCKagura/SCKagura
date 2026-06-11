@@ -14,7 +14,7 @@ I’m passionate about networks, backend & frontend development, and always eage
 
 - 🎂 **Age:** 22 (Born: 29/12/2003)
 - 📍 **Location:** Thailand 🇹🇭
-- 🎮 **Hobbies:** Valorant, RoV, Steam games
+- 🎮 **Hobbies:** Coding , Play some Games , Youtube
 - ⚡ **Fun Fact:** Always ready for a match or to chat about tech and games!
 
 ---
@@ -29,13 +29,7 @@ I’m passionate about networks, backend & frontend development, and always eage
 
 ---
 
-### 🚀 Featured Projects
 
-| Project | Description | Repository |
-| :--- | :--- | :---: |
-| 🌟 **[jongrhanrhao](https://github.com/SCKagura/jongrhanrhao)** | My personal project. Details inside! | [🔗 Link](https://github.com/SCKagura/jongrhanrhao) |
-| 🤖 **[sck-discordbot](https://github.com/SCKagura/sck-discordbot)** | A handy Discord bot for communities. | [🔗 Link](https://github.com/SCKagura/sck-discordbot) |
-| 💼 **[sck-portfolio](https://github.com/SCKagura/sck-portfolio)** | My portfolio website. Check it out! | [🔗 Link](https://github.com/SCKagura/sck-portfolio) |
 
 ---
 
